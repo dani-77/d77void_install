@@ -19,4 +19,4 @@ Then, after cloning this repo.
 mdbook serve
 ```
 
-![Open your browser](https://localhost:3000/) 
+![Open your browser](http://localhost:3000/) 
