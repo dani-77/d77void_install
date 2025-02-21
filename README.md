@@ -1,6 +1,6 @@
-This is a install guide for d77void (a simple respin of Void GNU/Linux made with WM)
+This is a install guide for d77void (a simple respin of Void GNU/Linux with a Window Manager)
 
-This gyude was made using mdBook.
+This guide was made using mdBook.
 To see the book in your browser, it is required mdBook, mdbook-toc and mdbook-admonish.
 
 You can install them like this on Void or any derivative.
